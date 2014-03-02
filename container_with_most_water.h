@@ -2,9 +2,6 @@
 problem: http://oj.leetcode.com/problems/container-with-most-water/
 */
 
-#include <stack>
-using std::stack;
-
 class Solution {
 public:
     int maxArea(vector<int> &height) {
